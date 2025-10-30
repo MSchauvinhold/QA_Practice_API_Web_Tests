@@ -1,6 +1,6 @@
 # QA Practice API & Web Tests
 
-Proyecto de automatización de pruebas **API y Web** desarrollado en **Java**, utilizando **RestAssured**, **Selenium**, **JUnit 5** y **TestNG**.
+Repositorio personal con **ejemplos prácticos de automatización de pruebas** (API y Web) desarrollados en **Java**, empleando **RestAssured**, **Selenium**, **JUnit 5** y **TestNG**.  
 Incluye reportes generados con **ExtentReports** y gestión de dependencias mediante **Maven**.
 
 ## Tecnologías utilizadas
